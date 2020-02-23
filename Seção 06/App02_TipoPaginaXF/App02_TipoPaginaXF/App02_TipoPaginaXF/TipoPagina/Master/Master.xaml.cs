@@ -31,6 +31,6 @@ namespace App02_TipoPaginaXF.TipoPagina.Master
         {
             Detail = new Conteudo();
             IsPresented = false;
-        }
+        } 
     }
 }
